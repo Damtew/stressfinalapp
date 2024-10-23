@@ -1,6 +1,4 @@
 import numpy as np
-from sklearn.externals import joblib
-import joblib
 import streamlit as st
 import pandas as pd
 import seaborn as sns
