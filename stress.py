@@ -10,6 +10,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.decomposition import PCA
 from sklearn.decomposition import PCA
+from sklearn.metrics import accuracy_score
 
 
 # Load the data
