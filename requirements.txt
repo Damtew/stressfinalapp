@@ -6,4 +6,5 @@ seaborn==0.12.2
 matplotlib==3.8.0
 plotly==5.16.1
 setuptools==75.2.0
+distutils==3.12
 
