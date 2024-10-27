@@ -1,4 +1,4 @@
-distutils.core
+distutils
 setuptools
 aiofiles==23.2.1
 aiohttp==3.8.5
