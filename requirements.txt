@@ -1,10 +1,4 @@
 altair==5.4.1
-anaconda-anon-usage @ file:///C:/b/abs_f4tsjyl9va/croot/anaconda-anon-usage_1695310457827/work
-anaconda-catalogs @ file:///C:/b/abs_8btyy0o8s8/croot/anaconda-catalogs_1685727315626/work
-anaconda-client @ file:///C:/b/abs_80wttmgui4/croot/anaconda-client_1694625288614/work
-anaconda-cloud-auth @ file:///C:/b/abs_5cjpnu6wjb/croot/anaconda-cloud-auth_1694462130037/work
-anaconda-navigator @ file:///C:/b/abs_ab00e0_u7e/croot/anaconda-navigator_1695238210954/work
-anaconda-project @ file:///C:/ci_311/anaconda-project_1676458365912/work
 ansi2html==1.9.2
 anyio @ file:///C:/b/abs_31grv7a7bl/croot/anyio_1729121290992/work
 appdirs==1.4.4
