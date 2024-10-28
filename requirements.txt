@@ -36,7 +36,6 @@ lib==4.0.0
 lxml==5.2.1
 matplot==0.1.9
 matplotlib==3.9.2
-mkl-service==2.4.0
 narwhals==1.9.0
 nh3==0.2.18
 opencv-python==4.10.0.84
