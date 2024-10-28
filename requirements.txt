@@ -2,7 +2,6 @@ altair==5.4.1
 ansi2html==1.9.2
 appdirs==1.4.4
 atomicwrites==1.4.0
-conda-verify==3.4.2
 daal4py==2023.1.1
 dash==2.18.1
 docopt==0.6.2
