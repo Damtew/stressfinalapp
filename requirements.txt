@@ -1,15 +1,6 @@
 altair==5.4.1
 ansi2html==1.9.2
-anyio @ file:///C:/b/abs_31grv7a7bl/croot/anyio_1729121290992/work
 appdirs==1.4.4
-argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
-argon2-cffi-bindings @ file:///C:/ci_311/argon2-cffi-bindings_1676424443321/work
-arrow @ file:///C:/b/abs_c2lakss3ie/croot/arrow_1728676307980/work
-astroid @ file:///C:/ci_311/astroid_1678740610167/work
-astropy @ file:///C:/b/abs_5egnt0gyqe/croot/astropy_1726174619184/work
-astropy-iers-data @ file:///C:/b/abs_ecdfv0_ea2/croot/astropy-iers-data_1726000550777/work
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
-async-lru @ file:///C:/b/abs_e0hjkvwwb5/croot/async-lru_1699554572212/work
 atomicwrites==1.4.0
 attrs @ file:///C:/b/abs_24xj44kobp/croot/attrs_1729089434205/work
 Automat @ file:///tmp/build/80754af9/automat_1600298431173/work
