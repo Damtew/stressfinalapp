@@ -1,6 +1,7 @@
 
 import streamlit as st
 import pandas as pd
+import sklearn
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.neighbors import KNeighborsClassifier
@@ -11,14 +12,12 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.decomposition import PCA
 from sklearn.decomposition import PCA
-from sklearn.metrics import accuracy_score
-import setuptools
 
 
 
 # Load the data
 def load_data():
-    data = pd.read_excel('C:/Users/engidad/OneDrive - World Health Organization/Desktop/Modeling/Data/feature_Final.xlsx')
+    data = pd.read_excel('C:/Users/engidad/feature_Final.xlsx')
     
     # Mapping categorical responses to binary
     mapping = {
