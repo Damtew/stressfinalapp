@@ -17,7 +17,7 @@ from sklearn.decomposition import PCA
 
 # Load the data
 def load_data():
-    data = pd.read_excel("C:/Users/engidad/feature_Final.xlsx")
+    data = pd.read_excel("feature_Final.xlsx")
     
     # Mapping categorical responses to binary
     mapping = {
