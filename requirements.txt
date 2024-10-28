@@ -1,4 +1,3 @@
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 alabaster @ file:///C:/b/abs_45ba4vacaj/croot/alabaster_1718201502252/work
 altair==5.4.1
 anaconda-anon-usage @ file:///C:/b/abs_f4tsjyl9va/croot/anaconda-anon-usage_1695310457827/work
